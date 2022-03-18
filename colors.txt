@@ -1,0 +1,16 @@
+blue		1
+green		2
+BabyBlue	3
+red		4
+purple/pink	5
+orange		6
+light grey	7
+dark grey	8
+move??		9
+light green	A
+ligher babyblue	B
+.
+.
+.
+.
+
